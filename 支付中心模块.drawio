@@ -1,1 +1,31 @@
-<mxfile host="www.draw.io" modified="2019-11-19T09:51:41.760Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="L1lgkrdCbX6u9sVa2fP1" type="github" pages="1"><diagram id="Dvi-IkTzgO4W6BQSCua2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T09:57:33.821Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ayZTwA01FIpeYuIfhAMI" version="12.2.6" type="github" pages="1">
+  <diagram id="Dvi-IkTzgO4W6BQSCua2" name="第 1 页">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Te8sVzdrQqSse8OglZep-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="160" height="500" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-2" value="路由模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-3" value="&lt;span style=&quot;white-space: normal&quot;&gt;产品模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="385" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-4" value="核心模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-6" value="渠道模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-7" value="通知模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-8" value="&lt;b&gt;支付中心&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
