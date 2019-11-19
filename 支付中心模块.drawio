@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T09:57:33.821Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ayZTwA01FIpeYuIfhAMI" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T09:58:35.275Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="4_pPySr8K5UcztyjlK26" version="12.2.6" type="github" pages="1">
   <diagram id="Dvi-IkTzgO4W6BQSCua2" name="第 1 页">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="Te8sVzdrQqSse8OglZep-8" value="&lt;b&gt;支付中心&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Te8sVzdrQqSse8OglZep-9" value="&lt;b&gt;模块&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
