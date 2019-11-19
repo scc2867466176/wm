@@ -1,1 +1,62 @@
-<mxfile host="www.draw.io" modified="2019-11-19T09:50:08.486Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="qkyz4N6WZtbPY4S4bJg8" type="github" pages="1"><diagram id="tMqVAdc1LtaFQe3erHaE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T09:50:41.153Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="MVziONJpoxw1LolvPrH0" version="12.2.6" type="github" pages="1">
+  <diagram id="tMqVAdc1LtaFQe3erHaE" name="第 1 页">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-1" value="1、绑卡" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAeYmDbwqNhuj8sQ-rKZ-2" target="LAeYmDbwqNhuj8sQ-rKZ-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-2" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-3" value="2、申请绑卡" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAeYmDbwqNhuj8sQ-rKZ-5" target="LAeYmDbwqNhuj8sQ-rKZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="440"/>
+              <mxPoint x="577" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-4" value="5、保存用户绑定的银行卡信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAeYmDbwqNhuj8sQ-rKZ-5" target="LAeYmDbwqNhuj8sQ-rKZ-9">
+          <mxGeometry x="0.1512" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="440"/>
+              <mxPoint x="577" y="500"/>
+            </Array>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-5" value="平台系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAeYmDbwqNhuj8sQ-rKZ-8" target="LAeYmDbwqNhuj8sQ-rKZ-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-7" value="3、发起签约" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="LAeYmDbwqNhuj8sQ-rKZ-6">
+          <mxGeometry x="-0.1963" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="4" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-8" value="订单中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-9" value="客户中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="470" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-10" value="4、实际签约" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LAeYmDbwqNhuj8sQ-rKZ-11" target="LAeYmDbwqNhuj8sQ-rKZ-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-11" value="支付中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="335" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-12" value="第三方支付渠道（京东支付、宝付等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="330" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="LAeYmDbwqNhuj8sQ-rKZ-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;绑卡业务流程&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
