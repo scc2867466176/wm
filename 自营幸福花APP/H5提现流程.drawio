@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-20T06:51:00.091Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="EEgZHYKs7dtgl16qBQAb" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-20T06:53:39.822Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="AJhvash-DhLGgux7dg09" version="12.2.7" type="github" pages="1">
   <diagram id="j5J2W2VcfoC4Jcf2RFkl" name="第 1 页">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="1Ye0kJsYCwCrshENgOoS-29" value="消息中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="554" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="eNOHGJmCiz_VNKtad-c_-1" value="积分中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eNOHGJmCiz_VNKtad-c_-1" value="会员中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="554" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
